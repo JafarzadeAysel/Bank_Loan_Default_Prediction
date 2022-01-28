@@ -1,8 +1,8 @@
 # Bank Loan Default Prediction:  Project Overview 
 * Built a tool to understand the past customers' profile in order to minimize the risk of future loan defaults
 * Cleaned dataset and use Future Selection Method
-* Tried SVM, Random Forest, Logistic Regression and best one using K-Fold Cross-Validation
-* Used GridsearchCV for Hyper Parameter Tuning and
+* Tried models like SVM, Random Forest, Logistic Regression and chose best one using K-Fold Cross-Validation
+* Used GridsearchCV for Hyper Parameter Tuning
 * Visualized ROC - AUC curve to evaluate the performance of model
 
 ## Code and Resources Used
