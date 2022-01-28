@@ -13,8 +13,8 @@ Building best machine learning model to understand the past customer’s profile
 
 ## Project structure
 The project divides into two categories:
-**Data Wrangling: Cleansing and Feature Selection**
-**Machine Learning: Predictive Modelling**
+* Data Wrangling: Cleansing and Feature Selection
+* Machine Learning: Predictive Modelling
 
 ## Data Wrangling: Cleansing and Feature Selection
 There was need to clean dataset so that it was useable for our model. I made the following changes and created the following variables
