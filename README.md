@@ -3,7 +3,7 @@
 * Cleaned dataset and use Future Selection Method
 * Tried SVM, Random Forest, Logistic Regression and best one using K-Fold Cross-Validation
 * Used GridsearchCV for Hyper Parameter Tuning and
-* Visualized ROC-AUC curve to evaluate the performance of model
+* Visualized ROC - AUC curve to evaluate the performance of model
 
 ## Code and Resources Used
 * Python Version: 3.7  
@@ -33,3 +33,8 @@ There was need to clean dataset so that it was useable for our model. I made the
 
 ## Model Performance
 * The metric used for the models’ evaluation is the ROC and AUC
+
+
+## Visuals
+![alt text](https://github.com/JafarzadeAysel/Bank_Loan_Default_Prediction/blob/main/default_non.PNG "Defaults vs Non-Defaults in imbalanced data")
+![alt text](https://github.com/JafarzadeAysel/Bank_Loan_Default_Prediction/blob/main/roc-auc.PNG "ROC - AUC curve of model")
