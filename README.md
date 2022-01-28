@@ -7,9 +7,9 @@ Building best machine learning model to understand the past customer’s profile
 * Visualized ROC-AUC curve to evaluate the performance of model
 
 ## Code and Resources Used
-*Python Version: 3.7  
-*Packages: pandas, numpy, sklearn, matplotlib
-*Link to Dataset: https://drive.google.com/open?id=1mrKSmWdOZnAI59jaRYEgS99zQJF8pOZg
+* Python Version: 3.7  
+* Packages: pandas, numpy, sklearn, matplotlib
+* Link to Dataset: https://drive.google.com/open?id=1mrKSmWdOZnAI59jaRYEgS99zQJF8pOZg
 
 ## Project structure
 The project divides into two categories:
