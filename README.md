@@ -9,7 +9,6 @@ Building best machine learning model to understand the past customer’s profile
 ## Code and Resources Used
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib
-
 **Link to Dataset:** https://drive.google.com/open?id=1mrKSmWdOZnAI59jaRYEgS99zQJF8pOZg
 
 ## Project structure
