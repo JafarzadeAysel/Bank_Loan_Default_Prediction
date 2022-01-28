@@ -17,7 +17,7 @@ The project divides into two categories:
 * Machine Learning: Predictive Modelling
 
 ## Data Wrangling: Cleansing and Feature Selection
-There was need to clean dataset so that it was useable for our model. I made the following changes and created the following variables
+There was need to clean dataset so that it was useable for our model. I made the following changes and created the following variables:
 * Added a column for if the loan was in default
 * Checked if data is imbalanced and found a way to handle this problem
 * Removed columns those had highest percentage of missing values
@@ -33,4 +33,4 @@ There was need to clean dataset so that it was useable for our model. I made the
 * Best performed model: SVM
 
 ## Model Performance
-* The metric used for the models’ evaluation is the ROC AUC
+* The metric used for the models’ evaluation is the ROC and AUC
