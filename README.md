@@ -1,5 +1,4 @@
 # Bank Loan Default Prediction:  Project Overview 
-Building best machine learning model to understand the past customer’s profile in order to minimize the risk of future loan defaults.
 * Built a tool to understand the past customers' profile in order to minimize the risk of future loan defaults
 * Cleaned dataset and use Future Selection Method
 * Tried SVM, Random Forest, Logistic Regression and best one using K-Fold Cross-Validation
